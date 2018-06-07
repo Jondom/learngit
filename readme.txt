@@ -3,4 +3,4 @@ Git is free software distributed under the GPL
 Add a new line
 Git has a mutable index called stage
 New line ab
-stay
+stay foolish
